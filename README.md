@@ -45,14 +45,14 @@ di visual Studio Code. Jalankan perintah berikut:
 
 - 0. buat kan codingan fungsi validasi login dalam bahasa dart, dengan kualifikasi berikut:
 
-untuk user name
-1. min 6 karakter.
-Untuk password 
-1. min 6 karakter.
-2. harus ada huruf besar.
-3. harus ada character.
-4. harus ada angka.
-5. harus ada huruf kecil.
+- untuk user name
+  1. min 6 karakter.
+- Untuk password 
+  1. min 6 karakter.
+  2. harus ada huruf besar.
+  3. harus ada character.
+  4. harus ada angka.
+  5. harus ada huruf kecil.
 
 ![Gambar 2](Screenshots/ss2.JPG)
 
