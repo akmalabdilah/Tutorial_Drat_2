@@ -47,7 +47,7 @@ di visual Studio Code. Jalankan perintah berikut:
 
 - untuk user name
   - min 6 karakter.
-  - Untuk password 
+- Untuk password 
   - min 6 karakter.
   - harus ada huruf besar.
   - harus ada character.
