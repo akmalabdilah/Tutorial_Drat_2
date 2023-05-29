@@ -113,23 +113,23 @@ bool login() {
 
 ```
 
-- Dibawah adalah Gambar run yang eror apa bilah pas input data paswor toidak mengikuti aturan validasi yang dibuat Eror: Password harus memiliki setidaknya 6 karakter
+- Dibawah adalah Gambar run yang eror apa bilah pas input data password tidak mengikuti aturan validasi yang dibuat Eror: Password harus memiliki setidaknya 6 karakter
 
 ![Gambar 3](Screenshots/ss3.JPG)
 
-- Dibawah adalah Gambar run yang eror apa bilah pas input data paswor toidak mengikuti aturan validasi yang dibuat Eror: Password harus mengandung setidaknya satu huruf besar
+- Dibawah adalah Gambar run yang eror apa bilah pas input data password tidak mengikuti aturan validasi yang dibuat Eror: Password harus mengandung setidaknya satu huruf besar
 
 ![Gambar 4](Screenshots/ss4.JPG)
 
-- Dibawah adalah Gambar run yang eror apa bilah pas input data paswor toidak mengikuti aturan validasi yang dibuat Eror: Password harus mengandung setidaknya satu huruf kecil
+- Dibawah adalah Gambar run yang eror apa bilah pas input data password tidak mengikuti aturan validasi yang dibuat Eror: Password harus mengandung setidaknya satu huruf kecil
 
 ![Gambar 5](Screenshots/ss5.JPG)
 
-- Dibawah adalah Gambar run yang eror apa bilah pas input data paswor toidak mengikuti aturan validasi yang dibuat Eror: Password harus mengandung setidaknya satu angka atau karakter khusus
+- Dibawah adalah Gambar run yang eror apa bilah pas input data password tidak mengikuti aturan validasi yang dibuat Eror: Password harus mengandung setidaknya satu angka atau karakter khusus
 
 ![Gambar 6](Screenshots/ss6.JPG)
 
-
+- Untuk kode dartnya sama sama yang di atas karna 4 gambar eror barusan hanya untuk gambaran saja apa bila eror memasukan password karna tidak mengikuti validasi yang berlaku, Sekian dan.
 
 
 - Selesai
