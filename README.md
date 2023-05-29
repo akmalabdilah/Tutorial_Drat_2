@@ -115,11 +115,11 @@ bool login() {
 
 - Dibawah adalah Gambar run yang eror apa bilah pas input data password tidak mengikuti aturan validasi yang dibuat Eror: Password harus memiliki setidaknya 6 karakter
 
-![Gambar 3](Screenshots/ss3.JPG)
+![Gambar 4](Screenshots/ss4.JPG)
 
 - Dibawah adalah Gambar run yang eror apa bilah pas input data password tidak mengikuti aturan validasi yang dibuat Eror: Password harus mengandung setidaknya satu huruf besar
 
-![Gambar 4](Screenshots/ss4.JPG)
+![Gambar 3](Screenshots/ss3.JPG)
 
 - Dibawah adalah Gambar run yang eror apa bilah pas input data password tidak mengikuti aturan validasi yang dibuat Eror: Password harus mengandung setidaknya satu huruf kecil
 
