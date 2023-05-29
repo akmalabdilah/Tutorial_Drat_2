@@ -54,7 +54,10 @@ di visual Studio Code. Jalankan perintah berikut:
   4. harus ada angka.
   5. harus ada huruf kecil.
 
+
 ![Gambar 2](Screenshots/ss2.JPG)
+
+Diatas ini adalah gambar koding run yang di bawah apa bilah tidak ada yang eror pas input data user name dan password
 
 ```dart
 import 'dart:io';
@@ -110,19 +113,19 @@ bool login() {
 
 ```
 
-- Gambar run Eror: Password harus memiliki setidaknya 6 karakter
+- Dibawah adalah Gambar run yang eror apa bilah pas input data paswor toidak mengikuti aturan validasi yang dibuat Eror: Password harus memiliki setidaknya 6 karakter
 
 ![Gambar 3](Screenshots/ss3.JPG)
 
-- Gambar run Eror: Password harus mengandung setidaknya satu huruf besar
+- Dibawah adalah Gambar run yang eror apa bilah pas input data paswor toidak mengikuti aturan validasi yang dibuat Eror: Password harus mengandung setidaknya satu huruf besar
 
 ![Gambar 4](Screenshots/ss4.JPG)
 
-- Gambar run Eror: Password harus mengandung setidaknya satu huruf kecil
+- Dibawah adalah Gambar run yang eror apa bilah pas input data paswor toidak mengikuti aturan validasi yang dibuat Eror: Password harus mengandung setidaknya satu huruf kecil
 
 ![Gambar 5](Screenshots/ss5.JPG)
 
-- Eror: Password harus mengandung setidaknya satu angka atau karakter khusus
+- Dibawah adalah Gambar run yang eror apa bilah pas input data paswor toidak mengikuti aturan validasi yang dibuat Eror: Password harus mengandung setidaknya satu angka atau karakter khusus
 
 ![Gambar 6](Screenshots/ss6.JPG)
 
