@@ -41,18 +41,18 @@ di visual Studio Code. Jalankan perintah berikut:
 
 - Untuk membuat file pilih yang bagian ke dua dan berilah nama sesuka kalian dan jika sudah di pindahkan ke halaman folder hapus isi yang ada di polder dan buat file baru di dalam polder tersebut.
 
-- Dan ini adalah koding dart serta hasil runnya
+### ini adalah koding dart serta hasil runnya yang berhasil dan gambaran run apa bila tidak mengikuti validasi yang berlaku pada kode dart.
 
-- 0. buat kan codingan fungsi validasi login dalam bahasa dart, dengan kualifikasi berikut:
+<h1> Soal buatkan codingan fungsi validasi login dalam bahasa dart, dengan kualifikasi berikut:</h1>
 
 - untuk user name
-  1. min 6 karakter.
-- Untuk password 
-  1. min 6 karakter.
-  2. harus ada huruf besar.
-  3. harus ada character.
-  4. harus ada angka.
-  5. harus ada huruf kecil.
+  - min 6 karakter.
+  - Untuk password 
+  - min 6 karakter.
+  - harus ada huruf besar.
+  - harus ada character.
+  - harus ada angka.
+  - harus ada huruf kecil.
 
 
 ![Gambar 2](Screenshots/ss2.JPG)
