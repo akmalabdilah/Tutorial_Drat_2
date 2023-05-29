@@ -57,7 +57,7 @@ di visual Studio Code. Jalankan perintah berikut:
 
 ![Gambar 2](Screenshots/ss2.JPG)
 
-Diatas ini adalah gambar run apa bilah tidak ada yang eror pas input data user name dan password ,dan yang di bawah ini adalah koding dartnya apa bilah tidak ada yang eror pas input data user name dan password.
+Diatas ini adalah gambar run apa bila tidak ada yang eror pas input data user name dan password ,dan yang di bawah ini adalah koding dartnya.
 
 ```dart
 import 'dart:io';
