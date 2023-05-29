@@ -41,9 +41,9 @@ di visual Studio Code. Jalankan perintah berikut:
 
 - Untuk membuat file pilih yang bagian ke dua dan berilah nama sesuka kalian dan jika sudah di pindahkan ke halaman folder hapus isi yang ada di polder dan buat file baru di dalam polder tersebut.
 
-### ini adalah koding dart serta hasil runnya yang berhasil dan gambaran run apa bila tidak mengikuti validasi yang berlaku pada kode dart.
-
 <h1> Soal buatkan codingan fungsi validasi login dalam bahasa dart, dengan kualifikasi berikut:</h1>
+
+### ini adalah koding dart serta hasil runnya yang berhasil dan gambaran run apa bila tidak mengikuti validasi yang berlaku pada kode dart.
 
 - untuk user name
   - min 6 karakter.
@@ -57,7 +57,24 @@ di visual Studio Code. Jalankan perintah berikut:
 
 ![Gambar 2](Screenshots/ss2.JPG)
 
-Diatas ini adalah gambar run apa bila tidak ada yang eror pas input data user name dan password ,dan yang di bawah ini adalah koding dartnya.
+-Diatas ini adalah gambar run apa bila tidak ada yang eror pas input data user name dan password ,dan yang di bawah ini adalah koding dartnya.
+
+<p>Sedikit penjelasan kode dart di bawah. 
+Fungsi login() digunakan untuk memvalidasi login dengan melakukan beberapa pengecekan terhadap username dan password yang diinputkan oleh pengguna. Berikut adalah penjelasan singkat tentang setiap langkah validasi:
+
+      Mengambil input username dan password dari pengguna menggunakan stdin.readLineSyn().
+
+      Memeriksa panjang password. Jika panjangnya kurang dari 6 karakter, maka akan mencetak pesan error dan mengembalikan false yang menunjukkan login gagal.
+
+      Memeriksa keberadaan huruf besar dalam password. Jika tidak ada huruf besar, maka akan mencetak pesan error dan mengembalikan false.
+
+      Memeriksa keberadaan huruf kecil dalam password. Jika tidak ada huruf kecil, maka akan mencetak pesan error dan mengembalikan false.
+
+      Memeriksa keberadaan angka atau karakter khusus dalam password. Jika tidak ada angka atau karakter khusus, maka akan mencetak pesan error dan mengembalikan false.
+
+      Jika semua pengecekan berhasil, yaitu panjang password mencukupi dan terdapat huruf besar, huruf kecil, serta angka atau karakter khusus, maka fungsi akan mengembalikan true, menandakan login berhasil.
+
+Pada main(), fungsi login() dipanggil untuk memvalidasi login. Jika hasilnya true, maka mencetak "Login berhasil", dan jika false, maka mencetak "Login gagal".</p>
 
 ```dart
 import 'dart:io';
