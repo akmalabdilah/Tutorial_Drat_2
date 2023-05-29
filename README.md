@@ -52,11 +52,13 @@ di visual Studio Code. Jalankan perintah berikut:
   - harus ada angka.
   - harus ada huruf kecil.
 
-### ini adalah koding dart serta hasil runnya yang berhasil dan gambaran run apa bila tidak mengikuti validasi yang berlaku pada kode dart.
+### ini adalah hasil runnya yang berhasil.
 
 ![Gambar 2](Screenshots/ss2.JPG)
 
 -Diatas ini adalah gambar run apa bila tidak ada yang eror pas input data user name dan password ,dan yang di bawah ini adalah koding dartnya.
+
+#### Dibawah ini adalah penjelasan kode dart dan kode dartnya.
 
 <p>Sedikit penjelasan kode dart di bawah. 
 Fungsi login() digunakan untuk memvalidasi login dengan melakukan beberapa pengecekan terhadap username dan password yang diinputkan oleh pengguna. Berikut adalah penjelasan singkat tentang setiap langkah validasi:
